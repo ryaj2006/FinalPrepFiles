@@ -69,11 +69,11 @@ const appRoutes: Routes = [
     // beverages
     BeveragesComponent,
     BeverageCreateComponent,
-    BeverageComponent
+    BeverageComponent,
     // users
+    UsersComponent,
     UserCreateComponent,
     UserComponent,
-    UsersComponent
   ],
   imports: [
     BrowserModule,
